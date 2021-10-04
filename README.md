@@ -1,3 +1,22 @@
+# E-ducate Website 
+This website is an online educational platfrom. 
+
+## website link
+
+Visit the website by clicking this link: [e-ducate](https://e-ducate-hero.netlify.app/)
+
+![alt text](https://i.imgur.com/OSCJdZj.png)
+
+
+
+## functionalities
+* User Can visit this site for any kind of online courses.
+* User can learn form available courses from courses secion. 
+* Most popular courses are shown on the homepage. 
+* Also featured shows the related blogs of the website. 
+
+---------------------------------------------------------------------------------------
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
